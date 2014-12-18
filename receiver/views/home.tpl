@@ -17,7 +17,7 @@
 	    <br/>
 	    
 	   
-	    <div class="container" style="background:lightgreen">
+	    <div class="container" style="background:lightblue">
 		 	<table id="messages" class="display" cellspacing="0">
 		        <thead>
 		            <tr>
