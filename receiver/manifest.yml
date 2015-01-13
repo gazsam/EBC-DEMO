@@ -1,6 +1,6 @@
 applications:
   .:
-   name: receiver2
+   name: receiver
    mem: 128M
    services:
     ${name}-db:
